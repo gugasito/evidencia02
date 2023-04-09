@@ -4,5 +4,6 @@ public class HolaMundo {
         System.out.println("Gustavo Soto");
         System.out.println("Benjamin Cruzado");
         System.out.println("Samuel Alvarez");
+        System.out.println("Diego Marillan");
     }
 }
